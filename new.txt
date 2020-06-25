@@ -1,0 +1,3 @@
+this is my git learning
+I wan to go into commit 2
+change by user
